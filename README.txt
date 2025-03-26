@@ -1,3 +1,7 @@
+This code is based off of some code for generating 3D terrain by NeHe Productions which can be found here: https://nehe.gamedev.net/tutorial/beautiful_landscapes_by_means_of_height_mapping/16006/
+
+Steps to run:
+
 1. Import the Lesson 34 jar in Eclipse
 2. Replace InputHandler.java and Renderer.java with my versions of the files, and also add MaxPoint.java and Tank.java
 3. Download the SWT libraries (rather than use the library supplied with Eclipse).
